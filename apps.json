@@ -1,0 +1,26 @@
+{
+  "apps": [
+    {
+      "app_name": "ফানি পিক ও ফেসবুক ট্রল বাংলা ফানি পিকচার ২০১৮",
+      "image_url": "https://lh3.googleusercontent.com/DKXMULasiQ6SqKpraFHsOzAyiLX7QPv2jDXrYD5pX5d3noaBc8IfWUqsJQxOmB5hbpo=s180-rw",
+      "app_id": "com.rsnapp.funny_picture_bangla_facebook_troll"
+    },
+    {
+      "app_name": "উচ্চারণ সহ ইংরেজি শব্দ শিখুন",
+      "image_url": "https://lh3.googleusercontent.com/blEtULB9iV7xWeiA1sK6PHT9p8K1pwTtxtcYG9B7HWBjJl68pXeISruI9Hm5FjzC8zA=s180-rw",
+      "app_id": "com.rsnapp.english_word_meaning"
+    },
+    {
+      "app_name": "ছোটদের রুপকথার গল্প বাংলা গল্পের বই মজার মজার গল্প",
+      "image_url": "https://lh3.googleusercontent.com/rWRBLHjBXdsV1APc9LuVp8FFzwENYs5zQP30kmcvTX_uiWGfXNz3MTdpx0dBcTjyh6s=s180-rw",
+      "app_id": "com.rsnapp.bangla_chotoder_rupkothar_golpo"
+    },
+    {
+      "app_name": "নিউ ফ্রি ইন্টারনেট new free internet",
+      "image_url": "https://lh3.googleusercontent.com/vOO4M9tuduAQn_4RRWmV9gcgnKbqvtotCp28cqHxn-lM5P44SflE8Ln7X5eX0mcTww=s180-rw",
+      "app_id": "com.rsnapp.free_internet_all_sim"
+    }
+  ],
+  "app_data_date_time": "2018-17-15 21:05:00",
+  "success": true
+}
